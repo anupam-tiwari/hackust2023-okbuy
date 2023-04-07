@@ -1,7 +1,7 @@
 
 # HackUST 2023
 
-OkBuy: Gaming protocol/exhcange build on top of okx blockchain
+OkBuy: Gaming protocol/exchange build on top of okx blockchain
 
 
 ## Tech
